@@ -1,0 +1,8 @@
+{
+  "name": "StudyMate AI",
+  "description": "An AI-powered study assistant for students to convert notes into summaries, quizzes, and explanations.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
